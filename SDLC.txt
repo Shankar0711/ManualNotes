@@ -1,0 +1,66 @@
+SDLC: - software development life cycle  
+It is standard procedure to develop new software It has different stages like
+
+> RECUIREMENT 
+> FEASIBILITY STUDY 
+> DESIGN 
+> CODING 
+> TESTING 
+> MAINTANANCE
+
+REQUIRMENT COLLECTION: -
+
+It is nothing but collection of requirements from customer’s place. it is done by business analyst or product analyst
+where in BA will go to customers place and collect the requirement in the business language and convert into software 
+language and explain the requirement to developer, test engineer, project manager, architect etc. this process is called 
+requirement collection.
+Here BA acts like bridge between customers and IT companies.
+
+FEASIBILITY STUDY : 
+
+Once after the requirement collection is completed then only, we go for feasibility study. This is done by team which 
+consist of project manager, BA, Architect, Finance team and HR team
+This is the stage where company will decide whether to take up the project or not and if we take up the project company
+will check do we have sufficient resources, sufficient technology and sufficient lab set ups.
+This is the stage where company will get to know if they take up the project do they get profit or not
+
+Roles of Project manager: Project manager will interact with Architect, BA, Finance officer and HR team and gather the information 
+and then PM will decide to take up the project or not.
+
+Roles of Architect : Architect will think from technical point of view and he will decide technology is it possible to 
+implement the project or not, if yes which technology should be followed all these decisions will be taken by Architect
+
+Role of Finance team: Finance team will think from money point of view, they will see how much should be invested and what 
+is the operational cost and we invest money do we get profit or not
+
+Role of HR  : HR team will think from resource point of view. they will think how many experience engineers and freshers
+ should be hired to work on the project
+
+DESIGN :
+ Once after the feasibility study is completed then we go for design phase. It is done by architect.
+►	There are 2 types of design
+
+1.	High level design (HLD).
+
+
+2.	Low level design (LLD).
+
+HLD   : The design of Architecture of project. It is done by Senior Architect.
+LLD   : The detailed design of smallest feature is called as LLD. It’s done by senior developer.
+
+CODING : 
+It is nothing but writing the programmes. It is done by development engineers where in they implement the software according 
+to the Specification, Customer Requirement.
+
+TESTING :
+once after coding is completed the next phase is testing. It is done by test engineers, here testers will start testing the 
+application according to the customers requirement specification in order to find the defects in the software is called as Testing.
+
+MAINTANANCE :
+Once after the Software is installed Customer will the start to use the Software and own run the business, while using the software.
+Its customers face any problem or issue then Company will fix the problem or defects for free and reset the defect and give new Software 
+to the Customer freely for a period of 6 months to 1 year depending on the agreement between the customer and the company. this phase is 
+called as maintenance.
+
+
+
